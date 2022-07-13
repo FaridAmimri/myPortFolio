@@ -12,7 +12,9 @@ function Home() {
       <div className='about'>
         <h2>Hi, My Name is Farid</h2>
         <div className='prompt'>
-          <p>A software developer with a passion for learning and creating</p>
+          <p>
+            A frontend react developer with a passion for learning and creating
+          </p>
           <LinkedInIcon />
           <EmailIcon />
           <GitHubIcon />
@@ -24,14 +26,13 @@ function Home() {
           <li className='item'>
             <h2>Front-End</h2>
             <span>
-              ReactJs, Redux, HTML, CSS, NPM, MaterialUI, StyledComponents
+              HTML, CSS, Saas, ReactJs, Redux, MaterialUI, StyledComponents,
+              GitHub, Npm, Jest, Figma
             </span>
           </li>
           <li className='item'>
             <h2>Languages</h2>
-            <span>
-              JavaScript
-            </span>
+            <span>JavaScript</span>
           </li>
         </ol>
       </div>
