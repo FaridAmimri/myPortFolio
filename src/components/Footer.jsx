@@ -10,7 +10,7 @@ function Footer() {
            <LinkedInIcon />
            <GitHubIcon />
         </div>
-        <p> &copy; 2022 faridamimri.com</p>
+        <p> &copy; 2022 www.faridamimri.com</p>
     </div>
   )
 }
