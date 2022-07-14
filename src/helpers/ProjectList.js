@@ -4,7 +4,7 @@ import FishEye from '../assets/fisheye.jpg'
 import LesPetitsPlats from '../assets/lespetitsplats.jpg'
 import Kasa from '../assets/kasa.jpg'
 import Sportsee from '../assets/sportsee.jpg'
-import ArgentBank from '../assets/argentbank.png'
+import ArgentBank from '../assets/argentbank.jpg'
 import HRnet from '../assets/hrnet.jpg'
 
 export const projectList = [
